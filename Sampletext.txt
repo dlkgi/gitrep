@@ -1,4 +1,8 @@
 This is the first code
 This is the second code
+<<<<<<< HEAD
 This is the fourth code
 This is the fifth code
+=======
+This is the third code
+>>>>>>> 0c99c42224da6d006fb214aa757c4a218244ad18
